@@ -4,12 +4,12 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 ## Sinh viên điền thông tin
 
-- Họ tên:
-- Mã sinh viên:
-- Nhóm:
-- Vai trò dự kiến trong nhóm:
-- Hệ điều hành:
-- Ghi chú:
+- Họ tên: Phan Lưu Phong
+- Mã sinh viên: 1771020535
+- Nhóm: 8
+- Vai trò dự kiến trong nhóm: Trưởng Nhóm
+- Hệ điều hành: Window 11 
+- Ghi chú: Đã cài đặt xong Git, Node.js và VS Code. Đang tiến hành cài đặt và verify Docker.
 
 ## Các file minh chứng nên có
 
