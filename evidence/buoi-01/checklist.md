@@ -28,7 +28,7 @@
 
 ## OBE Evidence
 
-- [ ] `evidence/buoi-01/tool-versions.txt` có nội dung.
-- [ ] `evidence/buoi-01/hello-world.txt` có nội dung.
-- [ ] `evidence/buoi-01/smoke-test-result.txt` có nội dung.
+- [x] `evidence/buoi-01/tool-versions.txt` có nội dung.
+- [x] `evidence/buoi-01/hello-world.txt` có nội dung.
+- [x] `evidence/buoi-01/smoke-test-result.txt` có nội dung.
 - [ ] Nếu còn lỗi, đã ghi vào `known-issues.md`.
